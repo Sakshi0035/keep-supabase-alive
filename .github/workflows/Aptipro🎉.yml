@@ -19,7 +19,4 @@ jobs:
             -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNpdm9yZnRuYmxkeXVzdWtjeHpwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjA0NDI4MTksImV4cCI6MjA3NjAxODgxOX0.tN0Sbz8LsjZ1uQo7MB5yqT0mvs07rggB95GGgmm92fo" \
             "https://sivorftnbldyusukcxzp.supabase.co/rest/v1/your_small_table?select=id&limit=1" || \
           curl -sSf "https://sivorftnbldyusukcxzp.supabase.co" || exit 0
-
-
-NEXT_PUBLIC_SUPABASE_URL=https://sivorftnbldyusukcxzp.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNpdm9yZnRuYmxkeXVzdWtjeHpwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjA0NDI4MTksImV4cCI6MjA3NjAxODgxOX0.tN0Sbz8LsjZ1uQo7MB5yqT0mvs07rggB95GGgmm92fo
+          
